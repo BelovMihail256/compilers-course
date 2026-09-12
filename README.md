@@ -28,9 +28,13 @@ dotnet build
 
 # Запуск тестов
 dotnet test
+```
 
-# Анализ покрытия тестами
-# HTML-отчёт появится здесь: tests/coverage-report/index.html
+## Анализ покрытия кода тестами
+
+Запустите скрипт и HTML-отчёт о покрытии появится в tests/coverage-report/index.html
+
+```bash
 scripts/run-tests-with-coverage
 ```
 
