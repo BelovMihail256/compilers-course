@@ -18,5 +18,9 @@ x86/
 [Oo]bj/
 [Ll]og/
 
+# Tests Code Coverage
+tests/coverage/
+tests/coverage-report/
+
 # Sandbox directory
 sandbox/
